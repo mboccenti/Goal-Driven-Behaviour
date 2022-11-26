@@ -7,7 +7,7 @@ using UnityEngine;
 public class WorldState
 {
     public string key;
-    public string values;
+    public int value;
 }
 
 public class WorldStates 
