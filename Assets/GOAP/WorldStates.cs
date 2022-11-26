@@ -1,6 +1,5 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.SceneTemplate;
 using UnityEngine;
 
 [System.Serializable]
@@ -10,7 +9,7 @@ public class WorldState
     public int value;
 }
 
-public class WorldStates 
+public class WorldStates
 {
     public Dictionary<string, int> states;
 
@@ -35,14 +34,10 @@ public class WorldStates
         {
             states[key] += value;
             if (states[key] <= 0)
-            {
                 RemoveState(key);
-            }
         }
         else
-        {
             states.Add(key, value);
-        }
     }
 
     public void RemoveState(string key)
