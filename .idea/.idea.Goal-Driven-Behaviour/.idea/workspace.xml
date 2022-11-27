@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b40b22a0-85ae-477f-acb8-fe63ebc7b692" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PinchAndZoom.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PinchAndZoom.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraHandler.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Goal-Driven-Behaviour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Goal-Driven-Behaviour/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/BasicWorkingHospital.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BasicWorkingHospital.unity" afterDir="false" />
     </list>
@@ -78,6 +78,7 @@
       <workItem from="1669563081983" duration="595000" />
       <workItem from="1669564344931" duration="78000" />
       <workItem from="1669564468364" duration="2766000" />
+      <workItem from="1669572888773" duration="1270000" />
     </task>
     <task id="LOCAL-00001" summary="Add PinchAndZoom">
       <created>1669566455167</created>
